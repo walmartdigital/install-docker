@@ -3,7 +3,7 @@ set -e
 
 CHANNEL="stable"
 
-docker_version=19.03.2
+docker_version=19.03.5
 apt_url="https://apt.dockerproject.org"
 yum_url="https://yum.dockerproject.org"
 gpg_fingerprint="9DC858229FC7DD38854AE2D88D81803C0EBFCD88"
